@@ -16,8 +16,6 @@
             <div class="text-center">
                 <h2>World Flowers!</h2>
             </div>
-
-
         </div>
     </div>
     <div class="row">
@@ -38,7 +36,6 @@
             </div>
         </div>
     </div>
-
     <div class="row">
         <button type="button" class="btn btn-outline-danger">Salvia</button>
         <button type="button" class="btn btn-outline-danger">Dandelions</button>
