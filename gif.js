@@ -2,13 +2,21 @@
 
 
 
-var = Flowers {
-    salvia
-    dande
-    lilies  
+var Flowers = ["roses", "lilies", "dandelions"];
+
+var btnDiv = $("#FlowerButtons");
+function captureInput(Flowers)
+function Flowers.push(newFlowers)
+
+
+function buildBtn(){
+        for (let i = 0; i < Flowers.length; i++) {
+                const element = Flowers[i];
+                
+        }
 }
 
-object.onclick function(){
+object.onclick function();{
     chosenFlower
     console.log(chosenFlower);
 }
